@@ -1,5 +1,5 @@
 # Code and Data for "Autogenic spinal excitatory circuit ensures skilled hand movements in primates"
-This repository contains the data and code associated with the manuscript by **Kim et al**., titled **“Autogenic spinal excitatory circuit ensures skilled hand movements in primates.”** (Manuscript currently under review)
+This repository contains the data and code associated with the manuscript by **Kim et al**., titled **“Autogenic spinal excitatory circuit ensures skilled hand movements in primates.”** (published in Proceedings of the National Academy of Sciences of the United States of America）
 
 # System Requirements for Simulation (Fig.4 and Fig.S5)
 - **MATLAB** R2024b or later
